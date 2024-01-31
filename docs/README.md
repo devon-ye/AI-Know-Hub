@@ -1,0 +1,27 @@
+---
+home: true
+title: Home
+heroImage: /images/hero.png
+actions:
+  - text: 开始
+    link: /theoretical-foundations/introduction.html
+    type: primary
+#  - text: Introduction
+#    link: /guide/introduction.html
+#    type: secondary
+features:
+  - title: 理论基础
+    details: 数学基础、计算模型、认知可数基础
+  - title: 核心技术
+    details: 机器学习：监督、无监督、强化学习，深度学习：神经网络、优化算法、模型评估
+  - title: 应用领域
+    details: 自然语言处理NLP、计算视觉CV、机器人学.
+  - title: 工程化实践
+    details: 模型训练、模型评估.
+  - title: 咨询报道
+    details: 关键舆情咨询.
+  - title: 前沿与伦理
+    details: 人工智能前沿研究论文,即安全伦理.
+  
+footer: MIT Licensed | Copyright © 2018-present AI Know Hub Community
+---

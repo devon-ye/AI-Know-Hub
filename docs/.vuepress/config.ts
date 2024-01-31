@@ -137,9 +137,9 @@ export default defineUserConfig({
   // use plugins
   plugins: [
     docsearchPlugin({
-      appId: '34YFD9IUQ2',
-      apiKey: '9a9058b8655746634e01071411c366b8',
-      indexName: 'vuepress',
+      appId: 'EV78DM1XTA',
+      apiKey: 'c6e9c98fea3181dc1695e0a1b65e5cdd',
+      indexName: 'AIKnowHub',
       searchParameters: {
         facetFilters: ['tags:v2'],
       },

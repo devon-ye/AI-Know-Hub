@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      DOCS_GA_ID: G-CTB8FQ7VMW
+      DOCS_GA_ID: G-2W5KJRN45K
       NODE_VERSION: '20'
 
     steps:

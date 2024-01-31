@@ -37,7 +37,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          repo: vuepress/vuepress.github.io
+          repo: devon-ye/AI-Know-Hub
           target_branch: main
           build_dir: docs/.vuepress/dist
         env:

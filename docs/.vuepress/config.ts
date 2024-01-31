@@ -49,7 +49,7 @@ export default defineUserConfig({
   // configure default theme
   theme: defaultTheme({
     logo: '/images/hero.png',
-    repo: 'devon-ye/AI-Know-Hub/docs',
+    repo: 'devon-ye/AI-Know-Hub/',
     docsDir: 'docs',
 
     // theme-level locales config

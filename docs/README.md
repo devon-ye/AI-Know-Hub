@@ -11,7 +11,7 @@ actions:
 #    type: secondary
 features:
   - title: 理论基础
-    details: 数学基础、计算模型、认知可数基础
+    details: 数学基础、计算模型、认知科学基础
   - title: 核心技术
     details: 机器学习：监督、无监督、强化学习，深度学习：神经网络、优化算法、模型评估
   - title: 应用领域
@@ -23,5 +23,5 @@ features:
   - title: 前沿与伦理
     details: 人工智能前沿研究论文,即安全伦理.
   
-footer: MIT Licensed | Copyright © 2018-present AI Know Hub Community
+footer: MIT 协议 | 版权所有 © 2024-至今 AI-Know-Hub 社区
 ---

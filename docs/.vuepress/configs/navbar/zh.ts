@@ -55,6 +55,12 @@ export const navbarZh: NavbarConfig = [
     text: '工程化实践',
     children: [
       {
+        text: '模型微调',
+        children: [
+          '/engineering-practice/model-fine-tuning/introduction.md',
+        ]
+      },
+      {
         text: '模型训练',
         children: [
         ],

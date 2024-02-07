@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5aa4de5e","path":"/en/theoretical-foundations/introduction.html","title":"人工智能入门","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1706674615000,"contributors":[{"name":"devon","email":"devon.ye@foxmail.com","commits":1}]},"filePathRelative":"en/theoretical-foundations/introduction.md"}');export{t as data};

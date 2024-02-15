@@ -55,6 +55,12 @@ export const navbarEn: NavbarConfig = [
     text: 'Engineering Practice',
     children: [
       {
+        text: 'GET STARTED',
+        children: [
+          '/engineering-practices/introduction.md',
+        ],
+      },
+      {
         text: 'Model Training',
         children: [
         ],

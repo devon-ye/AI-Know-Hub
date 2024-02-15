@@ -50,6 +50,12 @@ export const sidebarEn: SidebarConfig = {
         collapsible: true,
         children: [
             {
+                text: '开始',
+                children: [
+                    '/engineering-practices/introduction.md',
+                ],
+            },
+            {
                 text: 'Model Training',
                 children: [],
             },

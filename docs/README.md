@@ -3,8 +3,8 @@ home: true
 title: Home
 heroImage: /images/hero.png
 actions:
-  - text: 开始
-    link: /theoretical-foundations/introduction.html
+  - text: 指南
+    link: /engineering-practices/introduction.html
     type: primary
 #  - text: Introduction
 #    link: /guide/introduction.html

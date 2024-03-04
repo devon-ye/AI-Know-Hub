@@ -56,9 +56,11 @@
     "eslint-config-vuepress-typescript": "^4.10.0",
     "husky": "^9.0.6",
     "lint-staged": "^15.2.0",
+    "markdown-it-shikiji": "^0.10.2",
     "prettier": "^3.2.4",
     "prettier-config-vuepress": "^4.4.0",
     "rimraf": "^5.0.5",
+    "shikiji": "^0.10.2",
     "sort-package-json": "^2.6.0",
     "tsconfig-vuepress": "^4.5.0",
     "typescript": "^5.3.3"

@@ -23,7 +23,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig({
   // set site base to default value
-  base: '/',
+  base: '/AI-Know-Hub/',
 
   // extra tags in `<head>`
   head,
@@ -197,7 +197,7 @@ export default defineUserConfig({
     // only enable shiki plugin in prFrontiers and Ethicsoduction mode
     isProd
       ? shikiPlugin({
-          langs: ['bash', 'diff', 'json', 'md', 'ts', 'vue'],
+          langs: ['bash', 'diff', 'json', 'md', 'ts', 'vue', 'python', 'java'],
           theme: 'dark-plus',
         })
       : [],

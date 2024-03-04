@@ -37,7 +37,7 @@ export default defineUserConfig({
     },
     '/en/': {
       lang: 'en-US',
-      title: 'AI Know Hup',
+      title: 'AI Know Hub',
       description: 'AI: From Introduction to Abandonment.'
     },
   },

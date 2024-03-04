@@ -37,7 +37,7 @@ export default defineUserConfig({
     },
     '/en/': {
       lang: 'en-US',
-      title: 'AI Know Hup',
+      title: 'AI Know Hub',
       description: 'AI: From Introduction to Abandonment.'
     },
   },
@@ -197,7 +197,7 @@ export default defineUserConfig({
     // only enable shiki plugin in prFrontiers and Ethicsoduction mode
     isProd
       ? shikiPlugin({
-          langs: ['bash', 'diff', 'json', 'md', 'ts', 'vue'],
+          langs: ['bash', 'diff', 'json', 'md', 'ts', 'vue','python'],
           theme: 'dark-plus',
         })
       : [],

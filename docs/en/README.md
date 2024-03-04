@@ -1,6 +1,6 @@
 ---
 home: true
-title: 首页
+title: Home
 heroImage: /images/hero.png
 actions:
   - text: Get Started
